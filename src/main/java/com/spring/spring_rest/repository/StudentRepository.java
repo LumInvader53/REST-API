@@ -1,9 +1,11 @@
 package com.spring.spring_rest.repository;
 
+import com.spring.spring_rest.entity.Student;
 import org.springframework.data.jpa.repository.JpaRepository;
 
-import com.spring.spring_rest.entity.Student;
-
-public interface StudentRepository extends JpaRepository<Student, Long>{
+/**
+ * Repository interface for managing {@link Student} entities.
+ */
+public interface StudentRepository extends JpaRepository<Student, Long> {
 
 }
