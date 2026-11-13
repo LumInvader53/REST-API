@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.spring</groupId>
-	<artifactId>spring_rest_api_security</artifactId>
+	<artifactId>spring_rest</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>spring_rest_api_security</name>
+	<name>spring_rest</name>
 	<description/>
 	<url/>
 	<licenses>
